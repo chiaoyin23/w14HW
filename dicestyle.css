@@ -1,0 +1,28 @@
+body{
+	font-family: sans-serif;
+}
+.button{
+	background-color:#9BCFB8 ;
+  	border: 2px dotted; #7FB174;
+  	color: #072A24;
+  	margin-top: 5px;
+  	width: 100px;
+  	height: 30px;
+ 	border-radius: 8px;
+  	padding: 5px 10px;
+  	text-align: center;
+  	display: inline-block;
+  	font-size: 14px;
+}
+.button:hover{
+	background-color:#689C97;
+  	color: white;
+  	border: 2px solid #370D00;
+  	transition: all .3s ease;
+}
+div{
+	color: #1D6A96;
+	font-weight: bold;
+}
+
+
